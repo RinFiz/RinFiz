@@ -25,9 +25,9 @@
 
 I am a Web Developer from the US. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I’m learning Web Development and making fun little websites to better my knowledge.
+- :telescope: I love making small websites to get more familiar with different aspects of web dev.
 
-- :seedling: Exploring jobs in some sort of IT field.
+- :seedling: Exploring more and more ways to make my websites fun and interactive.
 
 - :zap: In my free time, I'm usually on my pc or switch playing games.
 
