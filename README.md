@@ -2,19 +2,13 @@
   <img src="https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortWaved&accessoriesType=Wayfarers&hairColor=BrownDark&facialHairType=Blank&clotheType=Hoodie&clotheColor=PastelBlue&eyeType=Happy&eyebrowType=Default&mouthType=Twinkle&skinColor=Light" width="100"/>
 
 <div id="badges">
- <a href="https://www.youtube.com/channel/UCgb2cC2bH6bxLGxVhm5V24w">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://twitter.com/KirbyLover008">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.reddit.com/user/Kirbylover002">
-    <img src="https://img.shields.io/badge/Reddit-orange?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi, I'm Ace!
+  I'm Ace
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -25,11 +19,11 @@
 
 I am a Web Developer from the US. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: I love making small websites to get more familiar with different aspects of web dev.
+- :telescope: I love making small websites for fun.
 
-- :seedling: Exploring more and more ways to make my websites fun and interactive.
+- :seedling: Trying to make those small websites bigger.
 
-- :zap: In my free time, I'm usually on my pc or switch playing games.
+- :zap: In my free time, I'm usually wasting time.
 
 - :mailbox:Reach Me Here: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KirbyLover008)
 ---
