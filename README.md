@@ -23,7 +23,7 @@ Web Dev from US. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 - :seedling: Trying to make those small websites bigger.
 
-- :zap: In my free time, I'm usually playing Tetris or Tunix.
+- :zap: In my free time, I'm usually on Tetris or Tunic.
 
 - :mailbox:Reach Me Here: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/KirbyLover008)
 ---
